@@ -1,0 +1,1 @@
+{"excludes": ["env", "node_modules", "__pycache__", ".next", "venv", ".vscode", "build", "public", ".idea", ".git", "dist", "coverage"], "last_path": "https://github.com/mnishiguchi/uit.git", "filters": ""}
